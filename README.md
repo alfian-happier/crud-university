@@ -63,4 +63,4 @@ This application provides a user-friendly web interface for managing student dat
 
 ## Preview
 
-![Student Data Dashboard Preview](dashboard-preview.png)
+![Student Data Dashboard Preview](https://github.com/alfian-happier/crud-university/blob/main/Screenshot%202024-07-27%20171838.png?raw=true)
